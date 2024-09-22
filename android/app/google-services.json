@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635201572726",
+    "project_id": "shop-fzaqb0",
+    "storage_bucket": "shop-fzaqb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635201572726:android:08bb81ba50c8df40e93457",
+        "android_client_info": {
+          "package_name": "com.angeilus.groomery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj7VHPdJ7o8qsmwELuTBoJK0sfYy4gkRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
